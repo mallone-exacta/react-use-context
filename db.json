@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode"
+    },
+    {
+      "name": "Mallone",
+      "email": "Mallone@aaa",
+      "id": 2
+    },
+    {
+      "name": "Mallone",
+      "email": "mallone@maaaa",
+      "id": 3
+    },
+    {
+      "name": "Mallone",
+      "email": "mallone@maaaa",
+      "id": 4
+    },
+    {
+      "name": "Mallone",
+      "email": "mallone@maaaa",
+      "id": 5
+    },
+    {
+      "name": "Mallone",
+      "email": "mallone@maaaa",
+      "id": 6
+    }
+  ]
+}
